@@ -17,7 +17,7 @@ nav-menu: true
 
 <img src="{% link assets/images/me.jpg %}" alt="" />
 <img src="./assets/images/me.JPG">
-![localImage](assets/images/me.jpg)
+![localImage](assets/images/me.JPG)
 
 <p> I'm a master of <strong>information studies</strong> student at <a href="https://www.mcgill.ca/">McGill University</a>, as well as a passionate explorer at the intersection of technology and human experience.</p>
 
