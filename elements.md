@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-image: assets/images/pic01.jpg
+image: assets/images/me.jpg
 nav-menu: true
 ---
 
@@ -29,5 +29,6 @@ nav-menu: true
 <h2 id="content">Extracurricular Life</h2>
 <p>Outside the academic sphere, my passions lie in literature and music. I am an avid reader, a novelist at heart, and a violinist by choice. These are not mere pastimes but integral parts of who I am, infusing my professional path with rich creativity and profound empathy.</p>
 
-
+</div>
+</div>
 <i>Join me in this tapestry of learning, innovation, and artistic expression, where each thread is interwoven with a commitment to making technology accessible and meaningful for all.</i>
