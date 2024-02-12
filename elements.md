@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: About me
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
@@ -12,12 +12,17 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>About me</h1>
 		</header>
 
+<p> I'm a master of <strong>information studies</strong> student at <a href="https://www.mcgill.ca/">McGill University</a>, as well as a passionate explorer at the intersection of technology and human experience.</p>
+
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Academic Life</h2>
+<p> My academic journey commenced with a Bachelor of Science in Psychology from the <strong>University of Toronto</strong>, where I developed a keen interest in the intricacies of the human mind and its interaction with technology. Therefore, I am diving deep into the world of Human-Computer Interaction and User Experience Design.</p>
+
+<p> Currently, I am engaged in research at McGill's <a href="https://act.mcgill.ca/">ACT Lab</a>, supervised by <a href="https://act.mcgill.ca/karyn/">Prof. Karyn Moffatt</a>. My research is dedicated to enhancing the <strong>accessibility</strong> of technology for people, especially for older people, striving to bridge gaps and create inclusive digital environments.</p>
+
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
