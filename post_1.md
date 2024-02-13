@@ -17,6 +17,7 @@ nav-menu: true
 
 <p>If these game items are categorized and placed like in a <strong>grocery store</strong>, with clear price tags and detailed descriptions, and then provided with a secure trading platform, it would be very easy for players to find the items they want.</p>
 
+<hr class="major" />
 <section id="one">
 	<div class="inner">
 		<header class="major">
