@@ -53,7 +53,9 @@ nav-menu: true
 			<li>Gaming Platforms: Participants use a variety of platforms, including PC, consoles, and mobile devices.</li>
 		</ul>
 	</div>
-
+<br>
+<br>
+	
 <h3>Key Questions</h3>
 <br>
 		<ul>
@@ -68,9 +70,19 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Key Findings</h3>
+		<br>
 		<h4>High Demand for Trading</h4>
-		<i>	A significant portion of participants (76%) reported trading game items at least once a month, indicating a robust market activity.</i>
+		<i>	A significant portion of participants <strong>(76%)</strong> reported trading game items at least once a month, indicating a robust market activity.</i>
 	</div>
 	<div class="6u$ 12u$(small)">
 	<span class="image fit"><img src="{% link assets/images/Q1.png %}" alt="" style="width: 500px;" /></span>	
+	</div>
+ <br>
+ <div class="row">
+	<div class="6u$ 12u$(small)">
+	<span class="image fit"><img src="{% link assets/images/Q2.png %}" alt="" style="width: 500px;" /></span>	
+	</div>
+	<div class="6u 12u$(small)">
+		<h>4Dissatisfaction with Existing Platforms</h4>
+		<i>	A striking <strong>65%</strong> of respondents expressed that current platforms are not clear or organized enough, making it difficult to find, evaluate, or trade items efficiently.</i>
 	</div>
