@@ -66,9 +66,9 @@ nav-menu: true
 <h3>Key Findings</h3>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>High Demand for Trading</h3>
+		<h4>High Demand for Trading</h4>
 		<p>	A significant portion of participants (76%) reported trading game items at least once a month, indicating a robust market activity.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-	 <span class="image fit"><img src="{% link assets/images/Q1.PNG %}" alt="" style="width: 400px;" /></span>	
+	<span class="image fit"><img src="{% link assets/images/Q1.png %}" alt="" style="width: 400px;" /></span>	
 	</div>
