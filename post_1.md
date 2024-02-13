@@ -155,7 +155,7 @@ nav-menu: true
 <br>
 <br>
 <h2 id="content">Sketching</h2>
-<p> visualize the concept & initial design</p>
+<p> Visualize the Concept & Initial Design</p>
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<span class="image fit"><img src="{% link assets/images/wireframe_ex.png %}" alt="" style="width: 700px;" /></span>
@@ -178,7 +178,7 @@ nav-menu: true
 <h2 id="content">Test</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
- 	<span class="image fit"><img src="{% link assets/images/interview.jpg %}" alt="" style="width: 700px;" /></span>	
+ 	<span class="image fit"><img src="{% link assets/images/interview.jpg %}" alt="" style="width: 500px;" /></span>	
 	</div>
  	<div class="6u$ 12u$(small)">
 	<p>In order to better test whether I thought enough about it, I invited some participants to experience my product after creating the lo-fi prototype.</p>
