@@ -17,6 +17,17 @@ nav-menu: true
 
 <p>If these game items are categorized and placed like in a <strong>grocery store</strong>, with clear price tags and detailed descriptions, and then provided with a secure trading platform, it would be very easy for players to find the items they want.</p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>User Research</h1>
+		</header>
+		
+</div>
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+  <h2 id="content">Online Survey</h2>
+<ul>
+	<li>Target group:</li>li>
+</ul>
+	<p>My primary target group comprises players of Counter-Strike 2, a cornerstone of the competitive gaming world. This demographic is chosen with strategic insight, recognizing that items from Counter-Strike 2 are among the most actively traded commodities on Steam, one of the largest digital distribution platforms for PC gaming. The game's enduring popularity, combined with a vibrant ecosystem of in-game items, skins, and accessories, provides a fertile ground for my app.</p>
+  
