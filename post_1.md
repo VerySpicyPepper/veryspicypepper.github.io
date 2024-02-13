@@ -130,7 +130,7 @@ nav-menu: true
 <br>
 <div class="row">
 	<div class="6u 12u$(small)">
- 	<span class="image fit"><img src="{% link assets/images/story1,png %}" alt="" style="width: 700px;" /></span>	
+ 	<span class="image fit"><img src="{% link assets/images/story1.png %}" alt="" style="width: 700px;" /></span>	
 	</div>
  	<div class="6u$ 12u$(small)">
   	<span class="image fit"><img src="{% link assets/images/story2.png %}" alt="" style="width: 700px;" /></span>	
