@@ -33,7 +33,7 @@ nav-menu: true
 				<p>More organized, more convenient, more concise.
 GEAR can bring you a better experience of purchasing game items.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="post_1.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
