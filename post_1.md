@@ -53,6 +53,8 @@ nav-menu: true
 			<li>Gaming Platforms: Participants use a variety of platforms, including PC, consoles, and mobile devices.</li>
 		</ul>
 	</div>
+</div>
+
 <br>
 <br>
 	
@@ -77,9 +79,9 @@ nav-menu: true
 	<div class="6u$ 12u$(small)">
 	<span class="image fit"><img src="{% link assets/images/Q1.png %}" alt="" style="width: 700px;" /></span>	
 	</div>
+</div>
 	
 <br>
-	<br>
 	
  <div class="row">
 	<div class="6u$ 12u$(small)">
@@ -89,3 +91,4 @@ nav-menu: true
 		<h4>Dissatisfaction with Existing Platforms</h4>
 		<i>	A striking <strong>65%</strong> of respondents expressed that current platforms are not clear or organized enough, making it difficult to find, evaluate, or trade items efficiently.</i>
 	</div>
+ </div>
