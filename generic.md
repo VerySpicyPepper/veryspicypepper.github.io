@@ -5,8 +5,10 @@ description: Explore the world with passion.
 image: assets/images/research.jpg
 nav-menu: true
 ---
-<i>My academic journey and professional aspirations are deeply rooted in enhancing the accessibility and usability of technology for various populations.</i>
+<i>My academic journey and professional aspirations are deeply rooted in enhancing the <strong>accessibility</strong> and usability of technology for various populations.</i>
 <i>I hope to contribute to building a future where all people can enjoy using technology.</i>
+<br>
+<br>
 <br>
 <section id="one">
 	<div class="inner">
@@ -28,5 +30,5 @@ nav-menu: true
 		</header>
 <span class="image fit"><img src="{% link assets/images/family.jpg %}" alt="" style="width: 800px;" /></span>
 <p>The project aims to explore accessible methods in enhancing intimacy and interpersonal connections within family units to ameliorate the efficacy and harmony of online misinformation correction. Recognizing the pivotal role of family members in mitigating misinformation dissemination, this research underscores the potency of close personal ties in confronting and rectifying erroneous beliefs circulated online. Amidst the backdrop of increasing reliance on computer-mediated communication (CMC) platforms for information exchange, which simultaneously facilitates and impedes misinformation correction due to the absence of non-verbal cues and emotional depth. </p>
-<p></p>This study seeks to explore innovative communication tools that augment intimacy. By focusing on strategies such as the incorporation of user-personalized elements and contextually rich communication cues in online interactions, this research endeavors to foster more meaningful and effective dialogue. Previous findings suggest the efficacy of emojis features in enhancing communicative clarity, intention, and perceived closeness among interlocutors, positing these tools as potential mediums for fostering greater intimacy and, by extension, more harmonious correction of misinformation within familial circles.</p>
+<p>This study seeks to explore innovative communication tools that augment intimacy. By focusing on strategies such as the incorporation of user-personalized elements and contextually rich communication cues in online interactions, this research endeavors to foster more meaningful and effective dialogue. Previous findings suggest the efficacy of emojis features in enhancing communicative clarity, intention, and perceived closeness among interlocutors, positing these tools as potential mediums for fostering greater intimacy and, by extension, more harmonious correction of misinformation within familial circles.</p>
 <i>In experimental design</i>
