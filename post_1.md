@@ -126,15 +126,27 @@ nav-menu: true
 <br>
 <br>
 <h2 id="content">Get the pain point: with user journey</h2>
-<p>With countless categories of skins, weapons, and other in-game assets, players often find themselves navigating through a cumbersome and confusing process to trade items. My app aims to simplify this process, offering a more organized, convenient, and user-friendly platform tailored to meet the specific needs of Counter-Strike 2 players.</p>
+<p>With <strong>countless categories</strong> of skins, weapons, and other in-game assets, players often find themselves navigating through a cumbersome and confusing process to purchase items. My app aims to <strong>simplify</strong> this process, offering a more <strong>organized, convenient, and user-friendly</strong> platform tailored to meet the specific needs of Counter-Strike 2 players.</p>
 <br>
 <div class="row">
 	<div class="6u 12u$(small)">
+	<i>Big picture</i>
  	<span class="image fit"><img src="{% link assets/images/story1.png %}" alt="" style="width: 700px;" /></span>	
 	</div>
  	<div class="6u$ 12u$(small)">
+	<i>Close up</i>
   	<span class="image fit"><img src="{% link assets/images/story2.png %}" alt="" style="width: 700px;" /></span>	
 	</div>
 </div>
 
- 
+ <br>
+ <br>
+<hr class="major" />
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Design</h1>
+		</header>
+		
+</div>
+<span class="image fit"><img src="{% link assets/images/story2.png %}" alt="" style="width: 1000px;" /></span>	
