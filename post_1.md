@@ -79,11 +79,8 @@ nav-menu: true
 	<div class="6u$ 12u$(small)">
 	<span class="image fit"><img src="{% link assets/images/Q1.png %}" alt="" style="width: 700px;" /></span>	
 	</div>
-</div>
 	
 <br>
-	
- <div class="row">
 	<div class="6u$ 12u$(small)">
 	<span class="image fit"><img src="{% link assets/images/Q2.png %}" alt="" style="width: 700px;" /></span>	
 	</div>
