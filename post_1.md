@@ -53,3 +53,22 @@ nav-menu: true
 			<li>Gaming Platforms: Participants use a variety of platforms, including PC, consoles, and mobile devices.</li>
 		</ul>
 	</div>
+
+<h3>Key Questions</h3>
+		<ul>
+			<li>How often do you purchase game items?</li>
+			<li>What platforms do you currently use for trading game items?</li>
+			<li>Rate your satisfaction with existing trading platforms</li>
+			<li>What are your biggest challenges with current game item trading platforms? </li>
+			<li>What features do you wish to see in an ideal game item purchasing platform?</li>
+		</ul>
+  <br>
+<h3>Key Findings</h3>
+<div class="row">
+	<div class="6u 12u$(small)">
+		<h3>High Demand for Trading</h3>
+		<p>	A significant portion of participants (76%) reported trading game items at least once a month, indicating a robust market activity.</p>
+	</div>
+	<div class="6u$ 12u$(small)">
+	 <span class="image fit"><img src="{% link assets/images/Q1.PNG %}" alt="" style="width: 400px;" /></span>	
+	</div>
