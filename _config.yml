@@ -1,7 +1,7 @@
 # site settings
 title: Pepper Wang
 subtitle: 
-email: youremailaddress@gmail.com
+email: xiaoning.wang@mail.mcgill.ca
 description: My design, my works, my life.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
