@@ -82,16 +82,16 @@ nav-menu: true
 </div>	
 <br>
 <div class="row">
+	<div class="6u 12u$(small)">
+	<span class="image fit"><img src="{% link assets/images/Q2.png %}" alt="" style="width: 700px;" /></span>	
+	</div>
 	<div class="6u$ 12u$(small)">
 		<h4>Dissatisfaction with Existing Platforms</h4>
 		<i>	A striking 65% of respondents expressed that current platforms are not clear or organized enough, making it difficult to find, evaluate, or trade items efficiently.</i>
 	</div>
-	<div class="6u 12u$(small)">
-	<span class="image fit"><img src="{% link assets/images/Q2.png %}" alt="" style="width: 700px;" /></span>	
-	</div>
  </div>
 <br>
-<span class="image fit"><img src="{% link assets/images/Q3.png %}" alt="" style="width: 7000px;" /></span>
+<span class="image fit"><img src="{% link assets/images/Q3.png %}" alt="" style="width: 700px;" /></span>
 <br>
 <div class="row">
 	<div class="4u 12u$(medium)">
