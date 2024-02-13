@@ -91,15 +91,15 @@ nav-menu: true
 	</div>
  </div>
 <br>
-<span class="image fit"><img src="{% link assets/images/Q3.png %}" alt="" style="width: 700px;" /></span>
-<br>
 
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h4>Need for Organization</h4>
 		<i>	Participants cited the lack of organization as a major challenge, struggling with cluttered interfaces and poor item categorization.</i>
+		<br>
 		<h4>Convenience is Key</h4>
 		<i>Participants indicated that a more convenient trading process would encourage them to trade more frequently.</i>
+		<br>
 		<h4>Simplicity and Efficiency</h4>
 		<i>Participants desired a more concise and straightforward trading experience, emphasizing the importance of minimizing unnecessary steps and information.</i>
 	</div>
@@ -115,26 +115,26 @@ nav-menu: true
  <p>Based on my user research, I've found that my target users can be roughly categorized into <strong>two groups</strong>. The following display of user personas nicely summarizes the characteristics of these two types of users.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
+	<i>Hard-Core Player</i>
  	<span class="image fit"><img src="{% link assets/images/person-1.png %}" alt="" style="width: 700px;" /></span>	
 	</div>
  	<div class="6u$ 12u$(small)">
+  	<i>Items Collector</i>
   	<span class="image fit"><img src="{% link assets/images/person-2.png %}" alt="" style="width: 700px;" /></span>	
 	</div>
 </div>
 
 <br>
 <br>
-<h2 id="content">Get the pain point: with User journey</h2>
+<h2 id="content">Get the pain point: with user journey</h2>
 <p>With countless categories of skins, weapons, and other in-game assets, players often find themselves navigating through a cumbersome and confusing process to trade items. My app aims to simplify this process, offering a more organized, convenient, and user-friendly platform tailored to meet the specific needs of Counter-Strike 2 players.</p>
 <br>
 <div class="row">
 	<div class="6u 12u$(small)">
-	<i>Hard-Core Player</i>
  	<span class="image fit"><img src="{% link assets/images/storyboard 1.pdf %}" alt="" style="width: 700px;" /></span>	
 	</div>
  	<div class="6u$ 12u$(small)">
-	<i>Items Collector</i>
-  	<span class="image fit"><img src="{% link assets/images/storyboard 1.pdf %}" alt="" style="width: 700px;" /></span>	
+  	<span class="image fit"><img src="{% link assets/images/storyboard 2.pdf %}" alt="" style="width: 700px;" /></span>	
 	</div>
 </div>
 
