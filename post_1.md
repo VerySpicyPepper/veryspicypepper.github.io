@@ -24,7 +24,7 @@ nav-menu: true
 			<h1>User Research</h1>
 		</header>
 		
-</div>
+
 <span class="image fit"><img src="{% link assets/images/survey.jpg %}" alt="" style="width: 1000px;" /></span>
 <br>
   <h2 id="content">Online Survey</h2>
