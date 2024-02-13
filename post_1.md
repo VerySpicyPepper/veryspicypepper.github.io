@@ -68,11 +68,10 @@ nav-menu: true
 			<li>What features do you wish to see in an ideal game item purchasing platform?</li>
 		</ul>
 <br>
-
+<h3>Key Findings</h3>
+<br>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Key Findings</h3>
-		<br>
 		<h4>High Demand for Trading</h4>
 		<i>	A significant portion of participants <strong>(76%)</strong> reported trading game items at least once a month, indicating a robust market activity.</i>
 	</div>
@@ -82,7 +81,7 @@ nav-menu: true
 	
 <br>
 	<div class="6u$ 12u$(small)">
-	<span class="image fit"><img src="{% link assets/images/Q2.png %}" alt="" style="width: 700px;" /></span>	
+	<span class="image fit"><img src="{% link assets/images/Q2.png %}" alt="" style="width: 50px;" /></span>	
 	</div>
 	<div class="6u 12u$(small)">
 		<h4>Dissatisfaction with Existing Platforms</h4>
