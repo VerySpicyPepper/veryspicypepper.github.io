@@ -1,9 +1,9 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Pepper Wang'
+landing-title: 'Hi, I am Pepper Wang'
 description: null
-image: null
+image: assets/images/home.jpg
 author: null
 show_tile: false
 ---
