@@ -55,6 +55,7 @@ nav-menu: true
 	</div>
 
 <h3>Key Questions</h3>
+<br>
 		<ul>
 			<li>How often do you purchase game items?</li>
 			<li>What platforms do you currently use for trading game items?</li>
@@ -62,13 +63,14 @@ nav-menu: true
 			<li>What are your biggest challenges with current game item trading platforms? </li>
 			<li>What features do you wish to see in an ideal game item purchasing platform?</li>
 		</ul>
-  <br>
-<h3>Key Findings</h3>
+<br>
+
 <div class="row">
 	<div class="6u 12u$(small)">
+		<h3>Key Findings</h3>
 		<h4>High Demand for Trading</h4>
-		<p>	A significant portion of participants (76%) reported trading game items at least once a month, indicating a robust market activity.</p>
+		<i>	A significant portion of participants (76%) reported trading game items at least once a month, indicating a robust market activity.</i>
 	</div>
 	<div class="6u$ 12u$(small)">
-	<span class="image fit"><img src="{% link assets/images/Q1.png %}" alt="" style="width: 400px;" /></span>	
+	<span class="image fit"><img src="{% link assets/images/Q1.png %}" alt="" style="width: 500px;" /></span>	
 	</div>
