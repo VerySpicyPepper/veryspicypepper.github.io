@@ -27,9 +27,8 @@ nav-menu: true
 
   <h2 id="content">Online Survey</h2>
   <span class="image fit"><img src="{% link assets/images/survey.jpg %}" alt="" style="width: 1000px;" /></span>
-<ul>
-	<3><li>Target group:</li></h3>
-</ul>
+<br>
+	<h3>Target group</h3>
 
 <br>
 
