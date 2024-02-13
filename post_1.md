@@ -25,10 +25,9 @@ nav-menu: true
 		</header>
 		
 </div>
-
-  <h2 id="content">Online Survey</h2>
-  <span class="image fit"><img src="{% link assets/images/survey.jpg %}" alt="" style="width: 1000px;" /></span>
+<span class="image fit"><img src="{% link assets/images/survey.jpg %}" alt="" style="width: 1000px;" /></span>
 <br>
+  <h2 id="content">Online Survey</h2>
 	<h3>Target group</h3>
 
 <br>
@@ -149,4 +148,47 @@ nav-menu: true
 		</header>
 		
 </div>
-<span class="image fit"><img src="{% link assets/images/story2.png %}" alt="" style="width: 1000px;" /></span>	
+<span class="image fit"><img src="{% link assets/images/design1.jpg %}" alt="" style="width: 1000px;" /></span>	
+<h2 id="content">User Flow</h2>
+<p>I created the user flow chart to guide my next design steps. Creating a user flow chart is essential for visualizing the steps users take within an app or website, from initial engagement to achieving their final goal.</p>
+<span class="image fit"><img src="{% link assets/images/flow.png %}" alt="" style="width: 700px;" /></span>	
+<br>
+<br>
+<h2 id="content">Sketching</h2>
+<p> visualize the concept & initial design</p>
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<span class="image fit"><img src="{% link assets/images/wireframe_ex.png %}" alt="" style="width: 700px;" /></span>
+	</div>
+	<div class="4u 12u$(medium)">
+		<span class="image fit"><img src="{% link assets/images/wireframe1.png %}" alt="" style="width: 700px;" /></span>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<span class="image fit"><img src="{% link assets/images/wireframe2.png %}" alt="" style="width: 700px;" /></span>
+	</div>
+</div>
+<br>
+<br>
+<h2 id="content">Lo-fi Prototype</h2>
+<p>I started by using a pen to draw the framework, which allowed me to visualize my initial ideas more freely. Then I transferred it to Figma to make it look more standard and neat.</p>
+<span class="image fit"><img src="{% link assets/images/lofi.png %}" alt="" style="width: 1000px;" /></span>	 
+<br>
+<br>
+
+<h2 id="content">Test</h2>
+<div class="row">
+	<div class="6u 12u$(small)">
+ 	<span class="image fit"><img src="{% link assets/images/story1.png %}" alt="" style="width: 700px;" /></span>	
+	</div>
+ 	<div class="6u$ 12u$(small)">
+	<p>In order to better test whether I thought enough about it, I invited some participants to experience my product after creating the lo-fi prototype.</p>
+<p>During the process, I asked more <strong>open-ended questions</strong> and let them talk about my product. Luckily, I received a lot of valuable feedback, which helped me to have a smoother time in building the hi-fi prototype.</p>
+	</div>
+</div>
+<br>
+<br>
+<h2 id="content">Hi-fi Prototype</h2>
+<p>Based on the feedback, as well as the design concepts, I considered colours, buttons shapes, layouts, animations, and more dynamic interactions in my hi-fi prototype.</p>
+<span class="image fit"><img src="{% link assets/images/hifi.png %}" alt="" style="width: 1000px;" /></span>
+<br>
+<br>
