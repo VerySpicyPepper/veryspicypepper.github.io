@@ -68,6 +68,7 @@ nav-menu: true
 			<li>What features do you wish to see in an ideal game item purchasing platform?</li>
 		</ul>
 <br>
+<br>
 <h3>Key Findings</h3>
 <br>
 <div class="row">
@@ -78,13 +79,38 @@ nav-menu: true
 	<div class="6u$ 12u$(small)">
 	<span class="image fit"><img src="{% link assets/images/Q1.png %}" alt="" style="width: 700px;" /></span>	
 	</div>
-	
+</div>	
 <br>
-	<div class="6u 12u$(small)">
+<div class="row">
+	<div class="6u$ 12u$(small)">
 		<h4>Dissatisfaction with Existing Platforms</h4>
 		<i>	A striking 65% of respondents expressed that current platforms are not clear or organized enough, making it difficult to find, evaluate, or trade items efficiently.</i>
 	</div>
-	<div class="6u$ 12u$(small)">
+	<div class="6u 12u$(small)">
 	<span class="image fit"><img src="{% link assets/images/Q2.png %}" alt="" style="width: 700px;" /></span>	
 	</div>
  </div>
+<br>
+<span class="image fit"><img src="{% link assets/images/Q3.png %}" alt="" style="width: 7000px;" /></span>
+<br>
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<h3>Need for Organization</h3>
+		<i>Participants cited the lack of organization as a major challenge, struggling with cluttered interfaces and poor item categorization.</i>
+	</div>
+	<div class="4u 12u$(medium)">
+		<h3>Simplicity and Efficiency</h3>
+		<i> Participants desired a more concise and straightforward trading experience, emphasizing the importance of minimizing unnecessary steps and information.</i>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3>Convenience is Key</h3>
+		<i>Participants indicated that a more convenient trading process would encourage them to trade more frequently.</i>
+	</div>
+ </div>
+ <br>
+ <br>
+ <h2 id="content">User Personas</h2>
+ <br>
+ <p>Based on my user research, I've found that my target users can be roughly categorized into <strong>two groups</strong>. The following display of user personas nicely summarizes the characteristics of these two types of users.</p>
+ 
+ 
