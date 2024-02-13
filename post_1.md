@@ -26,8 +26,11 @@ nav-menu: true
 </div>
 
   <h2 id="content">Online Survey</h2>
+  <span class="image fit"><img src="{% link assets/images/survey.jpg %}" alt="" style="width: 1000px;" /></span>
 <ul>
-	<li>Target group:</li>li>
+	<li>Target group:</li>
 </ul>
-	<p>My primary target group comprises players of Counter-Strike 2, a cornerstone of the competitive gaming world. This demographic is chosen with strategic insight, recognizing that items from Counter-Strike 2 are among the most actively traded commodities on Steam, one of the largest digital distribution platforms for PC gaming. The game's enduring popularity, combined with a vibrant ecosystem of in-game items, skins, and accessories, provides a fertile ground for my app.</p>
+</div>
+<p>	My primary target group comprises players of <strong>Counter-Strike 2</strong>, a cornerstone of the competitive gaming world. This demographic is chosen with strategic insight, recognizing that items from Counter-Strike 2 are among the most actively traded commodities on <strong>Steam</strong>, one of the largest digital distribution platforms for PC gaming. </p>
+<p>	The game's enduring popularity, combined with a vibrant ecosystem of in-game items, skins, and accessories, provides a fertile ground for my app.</p>
   
