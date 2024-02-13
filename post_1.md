@@ -28,9 +28,28 @@ nav-menu: true
   <h2 id="content">Online Survey</h2>
   <span class="image fit"><img src="{% link assets/images/survey.jpg %}" alt="" style="width: 1000px;" /></span>
 <ul>
-	<li>Target group:</li>
+	<3><li>Target group:</li></h3>
 </ul>
-</div>
+
+<br>
+
 <p>	My primary target group comprises players of <strong>Counter-Strike 2</strong>, a cornerstone of the competitive gaming world. This demographic is chosen with strategic insight, recognizing that items from Counter-Strike 2 are among the most actively traded commodities on <strong>Steam</strong>, one of the largest digital distribution platforms for PC gaming. </p>
 <p>	The game's enduring popularity, combined with a vibrant ecosystem of in-game items, skins, and accessories, provides a fertile ground for my app.</p>
   
+<br>
+
+<div class="row">
+	<div class="6u 12u$(small)">
+		<h3>Research Goals</h3>
+		<p>	To better understand the gaming community's needs and pain points related to trading game items, I conducted an online survey. My goal was to gather insights into players' experiences with existing trading platforms and identify opportunities for improvement. This survey was administered as an online questionnaire, ensuring a wide reach and easy participation for players globally.</p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Participants</h3>
+		<ul>
+			<li>Total Participants: 40</li></h3>
+			<li>Age: 18-34</li>
+			<li>Location: from various regions including North America, Europe, and Asia </li>
+			<li>Game Experience: a mix of casual and hardcore gamers </li>
+			<li>Gaming Platforms: Participants use a variety of platforms, including PC, consoles, and mobile devices.</li>
+		</ul>
+	</div>
