@@ -59,7 +59,6 @@ nav-menu: true
 <br>
 	
 <h3>Key Questions</h3>
-<br>
 		<ul>
 			<li>How often do you purchase game items?</li>
 			<li>What platforms do you currently use for trading game items?</li>
@@ -131,10 +130,10 @@ nav-menu: true
 <br>
 <div class="row">
 	<div class="6u 12u$(small)">
- 	<span class="image fit"><img src="{% link assets/images/storyboard 1.pdf %}" alt="" style="width: 700px;" /></span>	
+ 	<span class="image fit"><img src="{% link assets/images/story1,png %}" alt="" style="width: 700px;" /></span>	
 	</div>
  	<div class="6u$ 12u$(small)">
-  	<span class="image fit"><img src="{% link assets/images/storyboard 2.pdf %}" alt="" style="width: 700px;" /></span>	
+  	<span class="image fit"><img src="{% link assets/images/story2.png %}" alt="" style="width: 700px;" /></span>	
 	</div>
 </div>
 
