@@ -45,10 +45,10 @@ nav-menu: true
 	<div class="6u$ 12u$(small)">
 		<h3>Participants</h3>
 		<ul>
-			<li>Total Participants: 40</li></h3>
-			<li>Age: 18-34</li>
-			<li>Location: from various regions including North America, Europe, and Asia </li>
-			<li>Game Experience: a mix of casual and hardcore gamers </li>
+			<li>Total Participants: <strong>40</strong></li>
+			<li>Age: <strong>18-34</strong></li>
+			<li>Location: from various regions including <strong>North America, Europe, and Asia</strong></li>
+			<li>Game Experience: a <strong>mix</strong> of casual and hardcore gamers </li>
 			<li>Gaming Platforms: Participants use a variety of platforms, including PC, consoles, and mobile devices.</li>
 		</ul>
 	</div>
