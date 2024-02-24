@@ -202,4 +202,4 @@ nav-menu: true
 		
 </div>
 <br>
-<p> Let's see how Gear finally works! <a href="[https://www.kapwing.com/videos/65cb07e4e346a8f6ddf6fbde](https://drive.google.com/file/d/1uXrfYmxUX7owuX_NXPXZNa5yrfaEeyzV/view?usp=sharing)https://drive.google.com/file/d/1uXrfYmxUX7owuX_NXPXZNa5yrfaEeyzV/view?usp=sharing">click here!</a></p>
+<p> Let's see how Gear finally works! <a href="https://drive.google.com/file/d/1uXrfYmxUX7owuX_NXPXZNa5yrfaEeyzV/view?usp=drive_link">click here!</a></p>
