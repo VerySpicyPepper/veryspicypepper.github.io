@@ -1,21 +1,20 @@
 ---
 layout: post
 title: SweetTrove
-description: Welcome to a sweeter journey! Discover a world of sweetness with SweetTrove, the ultimate guide for dessert lovers seeking the finest bakeries and sweet shops around.
+description: Welcome to a sweeter journey! 
 image: assets/images/cake.jpg
 nav-menu: true
 ---
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Motivation</h1>
+			<h1>Welcome to a sweeter journey!</h1>
 		</header>
     
-<p> I am an avid video game player, and I spend at least 20 hours a week playing games. Therefore, when considering the design of my first app work, it was logical that I wanted to involve in the gaming related field.</p>
+<p> Discover a world of sweetness with <strong>SweetTrove</strong>, the ultimate guide for dessert lovers seeking the finest bakeries and sweet shops around.</p>
 
-<p>I'm trying to recall my gaming experience, then, I came up with the idea of <strong>trading game items</strong>. Game items can affect the player's gaming experience. However, as a virtual item, trading game items is not as intuitive and convenient as going to the grocery store and buying a carrot in the vegetable section; when browsing the game item trading market, we may notice that these items are more like being placed in a flea market stall without a clear categorization or pricing standard, requiring players to go through a lot of effort to pick their desired items.</p>
+<p>Dive into a carefully curated collection of establishments, from hidden gems to local favorites, each selected for their exceptional offerings. Whether you're in search of the perfect macaron, craving a slice of artisanal cake, or on a quest for the most delightful pastries, our app makes it easy to find, communicate with, and learn about the best places to satisfy your sweet tooth. Join a community of like-minded enthusiasts, share your discoveries, and indulge in the joy of desserts like never before.</p>
 
-<p>If these game items are categorized and placed like in a <strong>grocery store</strong>, with clear price tags and detailed descriptions, and then provided with a secure trading platform, it would be very easy for players to find the items they want.</p>
 
 <hr class="major" />
 <section id="one">
