@@ -1,8 +1,8 @@
 ---
 layout: post
-title: GEAR
-description: More organized, more convenient, more concise.
-image: assets/images/game.jpg
+title: SweetTrove
+description: Welcome to a sweeter journey! Discover a world of sweetness with SweetTrove, the ultimate guide for dessert lovers seeking the finest bakeries and sweet shops around.
+image: assets/images/cake.jpg
 nav-menu: true
 ---
 <section id="one">
