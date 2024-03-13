@@ -50,7 +50,7 @@ GEAR can bring you a better experience of purchasing game items.</p>
 				<p>Welcome to a sweeter journey! 
 Discover a world of sweetness with SweetTrove, the ultimate guide for dessert lovers seeking the finest bakeries and sweet shops around.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="post_2.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
