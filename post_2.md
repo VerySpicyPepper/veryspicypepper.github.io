@@ -48,7 +48,7 @@ nav-menu: true
 		<i>	Our sweet community presents you with a curated visual feast of the finest local bakeries, each inviting you to explore and indulge in their delectable treats.</i>
 	</div>
 	<div class="6u$ 12u$(small)">
-	<span class="image fit"><img src="{% link assets/images/home.png %}" alt="" style="width: 600px;" /></span>	
+	<span class="image fit"><img src="{% link assets/images/home.png %}" alt="" style="width: 400px;" /></span>	
 	</div>
 </div>	
 <br>
@@ -57,7 +57,7 @@ nav-menu: true
 <br>
 <div class="row">
 	<div class="6u 12u$(small)">
-	<span class="image fit"><img src="{% link assets/images/ppst.png %}" alt="" style="width: 600px;" /></span>	
+	<span class="image fit"><img src="{% link assets/images/ppst.png %}" alt="" style="width: 400px;" /></span>	
 	</div>
 	<div class="6u$ 12u$(small)">
 		<i>	Take a look at sweet discoveries from our community members like "Macaron Marvels," where each post invites fellow dessert lovers to a taste of Paris with a selection of artisanal macarons, complete with all the sweet details and your personal star rating.</i>
@@ -72,7 +72,7 @@ nav-menu: true
 		<i>	Enter your location on SweatMap to find the highest-rated confectioneries nearby, making it a breeze to locate and savor top-tier sweet treats in your vicinity.</i>
 	</div>
 	<div class="6u$ 12u$(small)">
-	<span class="image fit"><img src="{% link assets/images/location.png %}" alt="" style="width: 600px;" /></span>	
+	<span class="image fit"><img src="{% link assets/images/location.png %}" alt="" style="width: 400px;" /></span>	
 	</div>
 </div>	
 <br>
@@ -81,7 +81,7 @@ nav-menu: true
 <br>
 <div class="row">
 	<div class="6u 12u$(small)">
-	<span class="image fit"><img src="{% link assets/images/store.png %}" alt="" style="width: 600px;" /></span>	
+	<span class="image fit"><img src="{% link assets/images/store.png %}" alt="" style="width: 400px;" /></span>	
 	</div>
 	<div class="6u$ 12u$(small)">
 		<i>	On this store information page, you can view detailed descriptions of the bakery's offerings, see its location, check business hours, and contact the establishment directly. Convenient buttons also provide quick access to directions through Google Maps or further details on the bakery's website, keep the sweetness within reach!</i>
@@ -96,7 +96,7 @@ nav-menu: true
 		<i>	MyCollects is your personal curation tool within the app, letting you save and organize your must-visit dessert shops and bakeries for future sweet expeditions.</i>
 	</div>
 	<div class="6u$ 12u$(small)">
-	<span class="image fit"><img src="{% link assets/images/save.png %}" alt="" style="width: 600px;" /></span>	
+	<span class="image fit"><img src="{% link assets/images/save.png %}" alt="" style="width: 400px;" /></span>	
 	</div>
 </div>	
 <br>
@@ -105,7 +105,7 @@ nav-menu: true
 <br>
 <div class="row">
 	<div class="6u 12u$(small)">
-	<span class="image fit"><img src="{% link assets/images/newpost.png %}" alt="" style="width: 600px;" /></span>	
+	<span class="image fit"><img src="{% link assets/images/newpost.png %}" alt="" style="width: 400px;" /></span>	
 	</div>
 	<div class="6u$ 12u$(small)">
 		<i>	Craft your own confectionery tale on SweetTrove: post comments, photos, and specific details about your dessert shop visits, enhancing the collective sweet journey for all users.</i>
@@ -123,4 +123,4 @@ nav-menu: true
 		</header>
 
 <br>
-<a href="https://drive.google.com/file/d/1uXrfYmxUX7owuX_NXPXZNa5yrfaEeyzV/view?usp=drive_link">Prototype of SweetTrove</a>
+<a href="https://drive.google.com/file/d/10LfPD5FSlv-sYFfgzSx2NRmKDO8BrIm7/view?usp=sharing">Prototype of SweetTrove</a>
