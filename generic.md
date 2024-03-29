@@ -19,7 +19,7 @@ nav-menu: true
 		
 <div class="box">
 <b>· Misinformation and Older Adults During the COVID-19 Pandemic: a Mixed-Methods Study</b>
-<p>Amira Ghenai, <b>Xiaoning Wang</b>, Karyn Moffat</p>
+<p>  Amira Ghenai, <b>Xiaoning Wang</b>, Karyn Moffat</p>
 <p><i>Under Review</i></p>
 	</div>
 <br>
