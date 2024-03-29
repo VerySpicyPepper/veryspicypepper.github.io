@@ -25,7 +25,7 @@ nav-menu: true
 <p> My academic journey commenced with a Bachelor of Science in Psychology from the <strong>University of Toronto</strong>, where I developed a keen interest in the intricacies of the human mind and its interaction with technology. Therefore, I am diving deep into the world of Human-Computer Interaction and User Experience Design.</p>
 
 <p> Currently, I am engaged in research at McGill's <a href="https://act.mcgill.ca/">ACT Lab</a>, supervised by <a href="https://act.mcgill.ca/karyn/">Prof. Karyn Moffatt</a>, as well as <a href="https://aghenai.github.io/">Prof. Amira Ghenai</a>. My research is dedicated to enhancing the <strong>accessibility</strong> of technology for people, especially for older people, striving to bridge gaps and create inclusive digital environments.</p>
-<p><a href="https://drive.google.com/file/d/1_k-jDNOAyZC1b6qp3r2r0GMLP1eYHdPK/view?usp=sharing">view my cv</a></p>
+<p><a href="https://drive.google.com/file/d/1WSbn42iH4VxDVxn0EmvG20KZ_X3fg50y/view?usp=drive_link">view my cv</a></p>
 <hr class="major" />
 <!-- Content -->
 <h2 id="content">Extracurricular Life</h2>
