@@ -16,10 +16,12 @@ nav-menu: true
 			<h1>COVID-19 misinformation spread and effect on older adults </h1>
 		</header>
 <span class="image fit"><img src="{% link assets/images/older.jpg %}" alt="" style="width: 800px;" /></span>
-
-<b>Misinformation and Older Adults During the COVID-19 Pandemic: a Mixed-Methods Study</b>
+		
+<div class="box">
+<b>· Misinformation and Older Adults During the COVID-19 Pandemic: a Mixed-Methods Study</b>
 <p>Amira Ghenai, <b>Xiaoning Wang</b>, Karyn Moffat</p>
-<i>under review</i>
+<p><i>Under Review</i></p>
+	</div>
 <br>
 <p>The objective of this project is to elucidate the mechanisms through which senior individuals navigate and counteract misinformation related to the coronavirus on digital platforms. This inquiry focuses on delineating the specific obstacles encountered by this demographic in the pursuit of accurate information online and explores their strategies for addressing these challenges amidst the COVID-19 crisis.</p>
 <p>Employing methodologies such as online questionnaires and telephonic interviews, this study aims to assess the extent of engagement of older adults with digital resources for acquiring information about COVID-19, their exposure to and interaction with misinformation concerning the virus, and their level of acquaintance with the countermeasures implemented by various online platforms to mitigate the spread of such misinformation.</p>
