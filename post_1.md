@@ -189,7 +189,7 @@ nav-menu: true
 <br>
 <h2 id="content">Hi-fi Prototype</h2>
 <p>Based on the feedback, as well as the design concepts, I considered <strong>colours, buttons shapes, layouts, animations, and more dynamic interactions</strong> in my hi-fi prototype.</p>
-<span class="image fit"><img src="{% link assets/images/hifi.png %}" alt="" style="width: 1000px;" /></span>
+<span class="image fit"><img src="{% link assets/images/hifi_gear.png %}" alt="" style="width: 1000px;" /></span>
 <br>
 <br>
 
