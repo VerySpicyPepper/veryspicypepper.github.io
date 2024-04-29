@@ -18,7 +18,7 @@ nav-menu: true
 <span class="image fit"><img src="{% link assets/images/me.JPG %}" alt="" style="width: 800px;" /></span>
 <!-- <img src="./assets/images/me.JPG"> -->
 
-<p> I'm a master of <strong>information studies</strong> student at <a href="https://www.mcgill.ca/">McGill University</a>, as well as a passionate explorer at the intersection of technology and human experience.</p>
+<p> My name is Xiaoning/Pepper Wang (汪小甯). I'm a master of <strong>information studies</strong> student at <a href="https://www.mcgill.ca/">McGill University</a>, as well as a passionate explorer at the intersection of technology and human experience.</p>
 
 <!-- Content -->
 <h2 id="content">Academic Life</h2>
