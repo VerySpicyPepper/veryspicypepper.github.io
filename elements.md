@@ -24,7 +24,7 @@ nav-menu: true
 <h2 id="content">Academic Life</h2>
 <p> My academic journey commenced with a Bachelor of Science in Psychology from the <strong>University of Toronto</strong>, where I developed a keen interest in the intricacies of the human mind and its interaction with technology. Therefore, I am diving deep into the world of Human-Computer Interaction and User Experience Design.</p>
 
-<p> Currently, I am engaged in research at McGill's <a href="https://act.mcgill.ca/">ACT Lab</a>, supervised by <a href="https://act.mcgill.ca/karyn/">Prof. Karyn Moffatt</a>, as well as <a href="https://aghenai.github.io/">Prof. Amira Ghenai</a>. My research is dedicated to enhancing the <strong>accessibility</strong> of technology for people, especially for older people, striving to bridge gaps and create inclusive digital environments.</p>
+<p> Currently, I am engaged in research at McGill's <a href="https://act.mcgill.ca/">ACT Research Group</a>, supervised by <a href="https://act.mcgill.ca/karyn/">Prof. Karyn Moffatt</a>, as well as <a href="https://aghenai.github.io/">Prof. Amira Ghenai</a>. My research interests focus on <strong>human-computer interaction (HCI) and accessibility</strong>, with a particular emphasis on combating <strong>misinformation</strong> on social media. I am also interested in exploring online communication dynamics and developing AI solutions to support and enhance people's interactions and experiences in digital environments.</p>
 <p><a href="https://drive.google.com/file/d/1WSbn42iH4VxDVxn0EmvG20KZ_X3fg50y/view?usp=drive_link">view my cv</a></p>
 <hr class="major" />
 <!-- Content -->
