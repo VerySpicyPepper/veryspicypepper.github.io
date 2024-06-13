@@ -5,7 +5,7 @@ description: Explore the world with passion.
 image: assets/images/research.jpg
 nav-menu: true
 ---
-<i>My academic journey and professional aspirations are deeply rooted in enhancing the <strong>accessibility</strong> and usability of technology for various populations.</i>
+<i>My research interests lie at the intersection of human-computer interaction (HCI) and accessibility, particularly in addressing misinformation on social media and improving online communication. I aim to understand how people interact with technology and how these interactions can be optimized to support users, especially those with accessibility needs. Additionally, I am passionate about leveraging AI to provide robust support systems that enhance user experience and promote accurate information dissemination in digital spaces.</i>
 <i>I hope to contribute to building a future where all people can enjoy using technology.</i>
 <br>
 <br>
