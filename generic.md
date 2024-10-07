@@ -5,7 +5,7 @@ description: Explore the world with passion.
 image: assets/images/research.jpg
 nav-menu: true
 ---
-<i>My research interests lie at the intersection of <strong>human-computer interaction (HCI) and accessibility</strong>, particularly in addressing <strong>misinformation</strong> on social media and improving online communication. I aim to understand how people interact with technology and how these interactions can be optimized to support users, especially those with accessibility needs. Additionally, I am passionate about leveraging AI to provide robust support systems that enhance user experience and promote accurate information dissemination in digital spaces.</i>
+<i>My research interests lie at the intersection of <strong>human-computer/AI interaction, misinformation, trust and accessibility</strong>, particularly in addressing <strong>misinformation</strong> on social media and improving online communication. I aim to understand how people interact with technology and how these interactions can support information behaviours, especially those with accessibility needs. Additionally, I am passionate about leveraging AI to enhance user experience and promote accurate information dissemination in digital spaces.</i>
 <i>I hope to contribute to building a future where all people can enjoy using technology.</i>
 <br>
 <br>
@@ -18,8 +18,7 @@ nav-menu: true
 <span class="image fit"><img src="{% link assets/images/older.jpg %}" alt="" style="width: 800px;" /></span>
 		
 <div class="box">
-<b>· Misinformation and Older Adults During the COVID-19 Pandemic: a Mixed-Methods Study</b>
-<p>  Amira Ghenai, <b>Xiaoning Wang</b>, Karyn Moffat</p>
+<p>Ghenai, Amira and<b> Wang, Xiaoning</b> and Moffatt, Karyn, <b>Redefining Inclusivity in Misinformation Mitigation: Lessons from Older Adults’ Digital Adaptation During Covid-19</b>. Available at SSRN: https://ssrn.com/abstract=4917767</p>
 <p><i>Under Review</i></p>
 	</div>
 <br>
@@ -36,6 +35,6 @@ nav-menu: true
 			<h1>Increasing the perceived intimacy in online chats to improve the effectiveness of misinformation interventions within families.</h1>
 		</header>
 <span class="image fit"><img src="{% link assets/images/family.jpg %}" alt="" style="width: 800px;" /></span>
-<p>The project aims to explore accessible methods in enhancing intimacy and interpersonal connections within family units to ameliorate the efficacy and harmony of online misinformation correction. Recognizing the pivotal role of family members in mitigating misinformation dissemination, this research underscores the potency of close personal ties in confronting and rectifying erroneous beliefs circulated online. Amidst the backdrop of increasing reliance on computer-mediated communication (CMC) platforms for information exchange, which simultaneously facilitates and impedes misinformation correction due to the absence of non-verbal cues and emotional depth. </p>
-<p>This study seeks to explore innovative communication tools that augment intimacy. By focusing on strategies such as the incorporation of user-personalized elements and contextually rich communication cues in online interactions, this research endeavors to foster more meaningful and effective dialogue. Previous findings suggest the efficacy of emojis features in enhancing communicative clarity, intention, and perceived closeness among interlocutors, positing these tools as potential mediums for fostering greater intimacy and, by extension, more harmonious correction of misinformation within familial circles.</p>
-<i>In experimental design</i>
+<p>The spread of misinformation through online platforms, particularly within family group chats, presents a significant threat to societal well-being. Studies have demonstrated that one effective approach for correcting misinformation is to engage individuals who have close personal ties or a perceived shared identity, like family members. Family members' unique role in both addressing misinformation spread within family messaging groups and challenging misinformation beliefs externally presents significant opportunities for intervention. </p>
+<p>However, there are still some challenges that they may face when engaging in misinformation interventions. In some specific cultures, there is a strict hierarchy within the family and challenging the views of more senior members may be perceived as disrespectful behavior. Additionally, when family members communicate with each other through online communication that lacks emotional connection and intimacy, it increases the likelihood of conflicts due to disagreements. Each of these potential challenges may prevent people from correcting misinformation shared within these families. </p>
+<p>This study aims to address the unique challenges faced by this demographic, such as cultural conflicts and diminished intimacy in online communication. I conducted semi-structured interviews with 20 Chinese-Canadian young adults to explore their misinformation-sharing and correction experiences, emphasizing East-West cultural dynamics. This ongoing project aims for publication in January 2025.</p>
